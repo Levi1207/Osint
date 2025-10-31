@@ -1,0 +1,7 @@
+# Meeting details document ID:
+
+DOCUMENT_ID = "1wj2lWa4glp41wSetru2dvyms9F1j1oeIKP7usrC_6Ac"
+
+# Document URL:
+# https://docs.google.com/document/d/{DOCUMENT_ID}/edit?usp=sharing
+
